@@ -1,2 +1,0 @@
-# PatikaCSharp-Tutorials
-PatikaC#Tutorials
